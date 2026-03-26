@@ -19,3 +19,4 @@ UserSettings/
 *.mdb
 *.opendb
 *.VC.db
+Packages/*.tgz
