@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Mixed Reality (2).sln"
+    "dotnet.defaultSolution": "MixedReality_Project.sln"
 }
