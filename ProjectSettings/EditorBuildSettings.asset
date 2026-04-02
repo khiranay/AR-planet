@@ -4,7 +4,67 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Materi_Home.unity
+    guid: 09f662a2a07ddb442adabab7900880b6
+  - enabled: 1
+    path: Assets/Scenes/Materi_Home2.unity
+    guid: 5c62d672866f84f4388a6ea22c494ca8
+  - enabled: 1
+    path: Assets/Scenes/Materi_Earth.unity
+    guid: e5970b00f65cc9042a08bad9fdc3640e
+  - enabled: 1
+    path: Assets/Scenes/Materi_Mars.unity
+    guid: 66dcb10df3652c24abb7c9655b73005d
+  - enabled: 1
+    path: Assets/Scenes/Materi_Merkurius.unity
+    guid: d48c5825f567d45429bec75f27739ebb
+  - enabled: 1
+    path: Assets/Scenes/Materi_Neptunus.unity
+    guid: 0386ee02744bf1a418947edff8ac2798
+  - enabled: 1
+    path: Assets/Scenes/Materi_Saturnus.unity
+    guid: ae993d3f27be096459c8ece664ba1364
+  - enabled: 1
+    path: Assets/Scenes/Materi_Jupiter.unity
+    guid: f44c3cfbbae2255498385a0d8c3af83c
+  - enabled: 1
+    path: Assets/Scenes/Materi_Uranus.unity
+    guid: 2dd340d6c834403458d7d3be97a1aeb3
+  - enabled: 1
+    path: Assets/Scenes/Materi_Venus.unity
+    guid: 4cfaf8ea6013cd442b7adf41e8a38491
+  - enabled: 1
+    path: Assets/Scenes/AR_EARTH.unity
+    guid: 8271c30530057ec44a89d590c447285c
+  - enabled: 1
+    path: Assets/Scenes/AR_JUPITER.unity
+    guid: 27476c6c3a8a34e49a8eb99706a1a30f
+  - enabled: 1
+    path: Assets/Scenes/AR_MARS.unity
+    guid: 4a4bd2eeec8ea404fa755fa4827b6121
+  - enabled: 1
+    path: Assets/Scenes/AR_MERKURIUS.unity
+    guid: f9881bfd268e488498bb65b5c62d4cd0
+  - enabled: 1
+    path: Assets/Scenes/AR_NEPTUNUS.unity
+    guid: 2ad5c4678ea2e624aa7b9a3011042de7
+  - enabled: 1
+    path: Assets/Scenes/AR_SATURNUS.unity
+    guid: 1841525c5c92e2e48919531bf4256417
+  - enabled: 1
+    path: Assets/Scenes/AR_URANUS.unity
+    guid: 7a306afffce0cea449070f3a556c360c
+  - enabled: 1
+    path: Assets/Scenes/AR_VENUS.unity
+    guid: e97beed2687f7c54c9ff48e09017f047
+  - enabled: 1
+    path: Assets/Scenes/MateriSelesai.unity
+    guid: 25ad53e90690d8546abe90b9e6f0378c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
   m_UseUCBPForAssetBundles: 0
