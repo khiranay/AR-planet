@@ -460,7 +460,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 546634231}
         m_TargetAssemblyTypeName: PindahScene, Assembly-CSharp
-        m_MethodName: BukaMateriNeptunus
+        m_MethodName: BukaARNeptunus
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
